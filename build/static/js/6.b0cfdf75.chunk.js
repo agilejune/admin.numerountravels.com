@@ -1,0 +1,2 @@
+(this["webpackJsonpnumerountravels-admin"]=this["webpackJsonpnumerountravels-admin"]||[]).push([[6],{425:function(e,n,t){"use strict";t.r(n);t(0);var s=t(24),c=t(114),r=t(3);n.default=function(){return Object(r.jsx)(c.i,{children:Object(r.jsx)(c.a,{children:Object(r.jsx)(c.g,{children:Object(r.jsx)(s.b,{})})})})}}}]);
+//# sourceMappingURL=6.b0cfdf75.chunk.js.map

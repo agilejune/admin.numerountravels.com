@@ -1,0 +1,2 @@
+(this["webpackJsonpnumerountravels-admin"]=this["webpackJsonpnumerountravels-admin"]||[]).push([[7],{426:function(t,e,n){"use strict";n.r(e);var a=n(0),c=n(33),u=n(24),r=n(164),s=n(3);e.default=function(){var t=Object(c.a)();return Object(a.useEffect)((function(){t(Object(r.c)())}),[t]),Object(s.jsx)(u.a,{to:"/auth/login",replace:!0})}}}]);
+//# sourceMappingURL=7.368a4674.chunk.js.map
